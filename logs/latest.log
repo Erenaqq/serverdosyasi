@@ -1,0 +1,55 @@
+[13Jul2024 12:09:03.073] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.5, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13Jul2024 12:09:03.081] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[13Jul2024 12:09:04.948] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Jul2024 12:09:04.982] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/stare/Desktop/ser/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Jul2024 12:09:07.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\stare\Desktop\ser\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.5\fmlcore-1.20.1-47.3.5.jar is missing mods.toml file
+[13Jul2024 12:09:07.704] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\stare\Desktop\ser\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.5\javafmllanguage-1.20.1-47.3.5.jar is missing mods.toml file
+[13Jul2024 12:09:07.707] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\stare\Desktop\ser\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.5\lowcodelanguage-1.20.1-47.3.5.jar is missing mods.toml file
+[13Jul2024 12:09:07.709] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\stare\Desktop\ser\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.5\mclanguage-1.20.1-47.3.5.jar is missing mods.toml file
+[13Jul2024 12:09:07.809] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[13Jul2024 12:09:08.837] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Jul2024 12:09:08.860] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13Jul2024 12:09:08.921] [main/WARN] [mixin/]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2024 12:09:08.921] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2024 12:09:14.411] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
+[13Jul2024 12:09:14.463] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[13Jul2024 12:09:14.471] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.5, for MC 1.20.1 with MCP 20230612.114412
+[13Jul2024 12:09:14.471] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.5 Initialized
+[13Jul2024 12:09:15.120] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[13Jul2024 12:09:15.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jul2024 12:09:15.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.3.5 Target: null
+[13Jul2024 12:09:15.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[13Jul2024 12:09:15.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: OUTDATED Current: 3.3.6 Target: 3.4.5
+[13Jul2024 12:09:16.150] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jul2024 12:09:16.617] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/stare/Desktop/ser/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23723!/assets/.mcassetsroot' uses unexpected schema
+[13Jul2024 12:09:16.618] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/stare/Desktop/ser/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23723!/data/.mcassetsroot' uses unexpected schema
+[13Jul2024 12:09:17.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[13Jul2024 12:09:17.972] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[13Jul2024 12:09:18.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Jul2024 12:09:18.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jul2024 12:09:18.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jul2024 12:09:18.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jul2024 12:09:18.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jul2024 12:09:18.619] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[13Jul2024 12:09:18.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jul2024 12:09:19.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jul2024 12:09:22.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2024 12:09:22.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2024 12:09:22.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2024 12:09:22.022] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2024 12:09:22.022] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2024 12:09:22.091] [Worker-Main-15/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2024 12:09:22.590] [Worker-Main-15/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[13Jul2024 12:09:22.686] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3096 ms
+[13Jul2024 12:09:22.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.930s)! For help, type "help"
+[13Jul2024 12:09:22.709] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jul2024 12:13:42.728] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Erenaqq is 90daa30a-99d1-49ae-9459-3b27cadbd9e0
+[13Jul2024 12:13:42.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erenaqq[/192.168.2.16:60872] logged in with entity id 117 at (49.453115299048896, 64.0, 8.233726541366753)
+[13Jul2024 12:13:42.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erenaqq joined the game
+[13Jul2024 12:13:43.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erenaqq lost connection: Disconnected
+[13Jul2024 12:13:43.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erenaqq left the game
+[13Jul2024 12:14:02.932] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Erenaqq is 90daa30a-99d1-49ae-9459-3b27cadbd9e0
+[13Jul2024 12:14:03.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erenaqq[/192.168.2.16:60893] logged in with entity id 135 at (49.453115299048896, 64.0, 8.233726541366753)
+[13Jul2024 12:14:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erenaqq joined the game
+[13Jul2024 12:14:03.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erenaqq lost connection: Disconnected
+[13Jul2024 12:14:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erenaqq left the game
